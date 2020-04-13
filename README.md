@@ -8,7 +8,7 @@ Additional informations :
 
 If you try to play around with the summarizer application several things are to be known : 
 
-1) You will have to install the following libraries in your local virtual env in order to run the file in your dev environment:
+1) You will have to install the following libraries in your local virtual env in order to run the file in dev mode :
 
 - nltk 
 - summa 
