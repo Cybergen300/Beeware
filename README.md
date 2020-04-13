@@ -16,7 +16,7 @@ If you try to play around with the summarizer application several things are to 
 - beautifulsoup4
 - urllib3 
 
-2) Before trying to build the app you'll have to modify and update the required dependencies in your pyproject.toml in order to be able to launch the build app. 
+2) Before trying to build the app you'll have to modify and update the required dependencies in your pyproject.toml file in order to be able to launch the build app. 
 
 
 
